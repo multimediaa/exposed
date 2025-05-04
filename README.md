@@ -1,7 +1,3 @@
-## 2025
-[Google Forms - 23 April](./23042025.html)<br>
-[Peta Kurikulum](./kurikulum/peta.md)<br>
-[Silabus dan RPP](./kurikulum/silabus-rpp.md)
+# Multimediaa Exposed <span style="color:#DB4745;">[TOP SECRET]</span>
 
-## 2024
-belum diperbarui.
+More complete learning materials, files, and practice links from <a href="https://multimediaa.github.io">Multimedia Smabara</a>.
